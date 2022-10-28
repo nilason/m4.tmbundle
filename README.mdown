@@ -10,7 +10,7 @@ You can install this bundle in TextMate by opening the preferences and going to 
 
 # License
 
-Grammar taken and adapted from [languate-etc](https://github.com/Alhadis/language-etc/blob/master/grammars/m4.cson):
+Grammar taken and adapted from [language-etc](https://github.com/Alhadis/language-etc/blob/master/grammars/m4.cson):
 
 	Copyright (c) 2018-2022, John Gardner
 	
