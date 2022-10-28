@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>a_yneffba@lnubb.pbz</string>
+	<key>contactName</key>
+	<string>Nicklas Larsson</string>
+	<key>description</key>
+	<string>Support for &lt;a href="https://wolfram.schneider.org/bsd/7thEdManVol2/m4/m4.pdf"&gt;M4 Macro Processor&lt;/a&gt;.</string>
+	<key>name</key>
+	<string>M4</string>
+	<key>uuid</key>
+	<string>66A749AA-19DA-4607-AE51-59BA978804F2</string>
+</dict>
+</plist>
